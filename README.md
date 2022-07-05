@@ -1,5 +1,5 @@
 # CrisKhangWatchShop
-Dự án thực hành Servlet/JSP
+Dự án thực hành Servlet/JSP. Mô hình MVC
 
 Tải PS15054_TRANGIAKHANG_ASM_giaidoan1_JAVA4.sql, assignment
 
